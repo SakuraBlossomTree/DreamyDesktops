@@ -48,7 +48,9 @@ Made with :heart: by <b><a href="https://github.com/sakurablossomtree" alt="Prof
 
 ## Stargrazers
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SakuraBlossomTree/Soundify&type=Date)](https://star-history.com/#SakuraBlossomTree/DreamyDesktops&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SakuraBlossomTree/DreamyDesktops&type=Date)](https://star-history.com/#SakuraBlossomTree/DreamyDesktops&Date)
 
 ## License
 
