@@ -23,6 +23,8 @@
   <!-- </a> -->
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SakuraBlossomTree/DreamyDesktops?style=for-the-badge&labelColor=494d64&color=c6a0f6"> 
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/SakuraBlossomTree/DreamyDesktops?style=for-the-badge&labelColor=494d64&color=c6a0f6">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/SakuraBlossomTree/DreamyDesktops?style=for-the-badge&labelColor=494d64&color=c6a0f6">
+
 
 </p>
 
