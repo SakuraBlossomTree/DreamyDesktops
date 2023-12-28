@@ -43,6 +43,7 @@ Made with :heart: by <b><a href="https://github.com/sakurablossomtree" alt="Prof
 - [City Wallpapers](./city_wallpapers/city-wallpaper.md)
 - [Minimalist Wallpapers](./minimalist_wallpapers/minimalist-wallpapers.md)
 - [Nature Wallpapers](./nature_wallpapers/nature-wallpapers.md)
+- [Mobile Wallpapers](./Mobile_Wallpapers/mobile-wallpaper.md)
 - [Live Wallpapers](./live_wallpapers/live-wallpapers.md)
 
 ## Stargrazers
