@@ -44,3 +44,6 @@ tags: ```minimalist``` ```space```
 
 tags: ```minimalist``` ```nature```
 ![Sunset](./sunset-minimalist.jpg)
+
+tags: ```minimalist``` ```anime``` ```bocchi the rock```
+![Bocchi The Rock Minimalist](./bocchi-the-rock-minimalist.png)
