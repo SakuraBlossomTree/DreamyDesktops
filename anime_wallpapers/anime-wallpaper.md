@@ -44,3 +44,9 @@ tags: ```anime``` ```4girls``` ```indoors``` ```bocchi the rock```
 
 tags: ```anime``` ```4girls``` ```sakura``` ```outdoors``` ```bocchi the rock```
 ![Bocchi The Rock Sakura](./bocchi-the-rock-sakura.jpg)
+
+tags: ```anime``` ```city```
+![Anime Girl City Wallpaper](./anime-girl-city-wallpaper.png)
+
+tags: ```anime``` ```cute``` ```staring```
+![Anime Girl Window](./anime-girl-window.png)

@@ -47,3 +47,18 @@ tags: ```minimalist``` ```nature```
 
 tags: ```minimalist``` ```anime``` ```bocchi the rock```
 ![Bocchi The Rock Minimalist](./bocchi-the-rock-minimalist.png)
+
+tags: ```minimalist``` ```car``` ```honda``` ```nsx``` 
+![Honda NSX Minimalist](./honda-nsx-minimalist.png)
+
+tags: ```minimalist``` ```coding``` ```programming```
+![Life Motto In Code](./life-motto-in-code.jpg)
+
+tags: ```minimalist``` ```google``` ```pixel art``` 
+![Google Search Pixel Minimalist](./google-search-pixel-minimalist.jpg)
+
+tags: ```minimalist``` ```anime``` ```dark```
+![Anime Minimalist Wallpaper](./anime-minimalist-wallpaper.png)
+
+tags: ```minimalist``` ```coding``` ```programming```
+![I Love Coding Minimalist](./i-love-coding-minimalist.png)

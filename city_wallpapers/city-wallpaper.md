@@ -19,3 +19,5 @@ tags: ```city``` ```evening``` ```sunset``` ```aesthetic```
 tags: ```city``` ```sunset``` ```evening```
 ![What is a sunset](./what-is-a-sunset.jpg)
 
+tags: ```city``` ```japan``` ```colorful```
+![City Japan Artwork](./city-japan-artwork.jpg)
